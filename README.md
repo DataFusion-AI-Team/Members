@@ -14,5 +14,5 @@ Semanur Kapusızoğlu | Data Engineer & AI Researcher | I live to learn and use 
 Rabia Filiz | Student & Applying for Data Engineer Internship Programs | I am developing myself in the field of data science and making a career plan on this. Also, I take online courses on platforms such as Coursera, DataCamp, Udacity to improve my coding, statistics, and linear algebra skills. 
 Mustafa Selim Özen | Data Analyst | I am enthusiasm about Nlp & Machine Learning
 Oktay Samur  | R&D Engineer  | I am a R&D Engineer. I am developing myself in NLP, Data Science, IoT Solutions and Computer vision. Also, i am enthusiasm about Neuroscience.
-
+Ecem Nur Yıldızcan | Student and part-time computer vision engineer | I am particularly interested in image processing and deep learning. First of all, I work with health data and I want to specialize in this area. I also do research in the field of artificial intelligence and art.
 
