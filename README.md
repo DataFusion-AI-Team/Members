@@ -1,4 +1,4 @@
-# People
+# Group Members
 
 
 Name Surname | Status | Describe
