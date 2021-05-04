@@ -16,3 +16,4 @@ Mustafa Selim Özen | Data Analyst | I am enthusiasm about Nlp & Machine Learnin
 Oktay Samur  | R&D Engineer  | I am a R&D Engineer. I am developing myself in NLP, Data Science, IoT Solutions and Computer vision. Also, i am enthusiast about Neuroscience.
 Ecem Nur Yıldızcan | Student and part-time computer vision engineer | I am particularly interested in image processing and deep learning. First of all, I work with health data and I want to specialize in this area. I also do research in the field of artificial intelligence and art.
 
+Conflict Explaining
