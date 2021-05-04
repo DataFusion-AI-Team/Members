@@ -1,5 +1,6 @@
  # Group Members  
  
+ 
  Name Surname | Status | Describe 
  ---- | ---- | ---------------
 Ümit Kaçar   | Senior AI Researcher & Engineer  | I like solving business problems. I am working as multidisciplinary  (biometrics, medicine, defense, agriculture, fintech, security-safety system)
