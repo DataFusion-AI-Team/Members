@@ -15,4 +15,5 @@ Rabia Filiz | Student & Applying for Data Engineer Internship Programs | I am de
 Mustafa Selim Özen | Data Analyst | I am enthusiasm about Nlp & Machine Learning
 Oktay Samur  | R&D Engineer  | I am a R&D Engineer. I am developing myself in NLP, Data Science, IoT Solutions and Computer vision. Also, i am enthusiast about Neuroscience.
 Ecem Nur Yıldızcan | Student and part-time computer vision engineer | I am particularly interested in image processing and deep learning. First of all, I work with health data and I want to specialize in this area. I also do research in the field of artificial intelligence and art.
+Eren Can Ardıç | Looking for Data Science & Data Engineer Internship | Likes to dance and play with data. I am a passionate, determined and willing engineer candidate who follows his dreams.
 
